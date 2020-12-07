@@ -12,6 +12,27 @@ chunk([1, 2, 3, 4, 5], 10) --> [[ 1, 2, 3, 4, 5]]
 
 // Solution -1
 
+// function arrChunk(arr, length) {
+//     let subrr = [];
+//     let output = [];
+//     for (let num in arr) {
+//         subrr.push(arr[num]);
+//         if (subrr.length == length) {
+//             output.push(subrr);
+//             subrr = [];
+//         } else {
+//             if (num == (arr.length - 1)) {
+//                 output.push(subrr)
+//             }
+//         }
+//     }
+//     return output;
+// }
+
+// console.log(arrChunk([1, 2, 3, 4, 5, 7, 8, 9], 3));
+
+// Solution - 2
+
 function arrChunk(arr, length) {
     let subrr = [];
     let output = [];
