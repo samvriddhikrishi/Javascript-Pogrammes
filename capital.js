@@ -3,7 +3,7 @@
 // Ex: capitalize("a short sentence") --> A Short Sentence
 
 // Solution - 1
-/*
+
 function capital(str) {
     let words = [];
 
@@ -15,7 +15,9 @@ function capital(str) {
 }
 
 console.log(capital("a short sentence"));
-*/
+
+/********************************************************************************************** */
+
 // Solution - 2
 
 function capital(str) {
