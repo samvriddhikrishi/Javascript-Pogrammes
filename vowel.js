@@ -20,7 +20,7 @@ console.log(vowCount("Why"));
 // Solution - 2 
 // we can use "includes" array helper 
 
-/*
+
 function vowCount(str) {
     let count = 0;
     let vowels = ["a", "e", "i", "o", "u"];
@@ -34,7 +34,7 @@ function vowCount(str) {
 }
 
 console.log(vowCount("hello"));
-*/
+
 
 /********************************************************************************************/
 
