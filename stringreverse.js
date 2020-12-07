@@ -31,12 +31,12 @@ strRev("krishna");
 
 // solution-3
 
-// function strRev(str) {
-//     let str1 = str.split('').reverse().join('');
-//     console.log(str1);
-// }
+function strRev(str) {
+    let str1 = str.split('').reverse().join('');
+    console.log(str1);
+}
 
-// strRev("chalo@");
+strRev("chalo@");
 
 /*********************************************************************** */
 
