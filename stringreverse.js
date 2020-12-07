@@ -1,5 +1,6 @@
 // solution-1
-/*function strRev(str) {
+
+function strRev(str) {
     let str1 = str;
     let arr = str1.split('');
     let str2 = ""
@@ -11,20 +12,20 @@
     }
 }
 
-strRev("krishna"); */
+strRev("krishna"); 
 
 /********************************************************************************/
 
 // Solution-2
 
-// function strRev(str) {
-//     let str1 = str.split('');
-//     str1.reverse();
-//     let output = str1.join('');
-//     console.log(output);
-// }
+function strRev(str) {
+    let str1 = str.split('');
+    str1.reverse();
+    let output = str1.join('');
+    console.log(output);
+}
 
-// strRev("krishna");
+strRev("krishna");
 
 /************************************************************************* */
 
