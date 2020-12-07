@@ -42,16 +42,16 @@ strRev("chalo@");
 
 // solution-4
 
-// function strRev(str) {
-//     let output = "";
-//     for (let character of str) {
-//         output = character + output
-//     }
+function strRev(str) {
+    let output = "";
+    for (let character of str) {
+        output = character + output
+    }
 
-//     console.log(output);
-// }
+    console.log(output);
+}
 
-// strRev("krishna");
+strRev("krishna");
 
 /***************************************************************************/
 
