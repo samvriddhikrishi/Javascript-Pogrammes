@@ -29,7 +29,6 @@ console.log(maxChar("abccccd"));
 
 // Solution - 2
 
-/*
 function maxChar(str) {
     let charMap = {};
     let max = 0;
@@ -51,4 +50,3 @@ function maxChar(str) {
 }
 
 console.log(maxChar("abbcddd"));
-*/
