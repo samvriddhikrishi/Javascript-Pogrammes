@@ -1,5 +1,5 @@
 // Solution - 1
-/*
+
 function reverseNum(num) {
     const output = num.toString().split('').reverse().join('');
     if (num < 0) {                             //  for negative numbers
@@ -9,7 +9,7 @@ function reverseNum(num) {
 }
 
 console.log(reverseNum(-554));
-*/
+
 /************************************************************************** */
 // Solution - 2
 
