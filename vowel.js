@@ -1,7 +1,7 @@
 // find the number of vowels present in a string
 
 // solution - 1
-/*
+
 function vowCount(str) {
     let count = 0;
     for (let char of str.toLowerCase()) {
@@ -13,7 +13,7 @@ function vowCount(str) {
 }
 
 console.log(vowCount("Why"));
-*/
+
 
 /*************************************************************************************/
 
