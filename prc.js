@@ -11,4 +11,4 @@ function moves(arr) {
     return moves;
 }
 
-console.log(moves([1, 2, 1, 4]));
+console.log(moves([1, 2, 1, -1, 1]));
