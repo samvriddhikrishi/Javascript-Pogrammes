@@ -12,6 +12,7 @@ console.log(palindrome("abba"));
 /************************************************************************************** */
 
 // solution-2
+
 // For "every" method refer the link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every
 
 function palindrome(str) {
