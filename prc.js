@@ -1,7 +1,5 @@
-function printA(){
-    console.log(ans);
-    var ans=2;
-};
+let arr = [1, 2, 4, 5, 7];
 
-printA();
-printA();
+const reducer = (accumulator, curentvalue) => accumulator + curentvalue;
+
+console.log(arr.reduce(reducer));
