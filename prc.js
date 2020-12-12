@@ -1,5 +1,5 @@
-let arr = [1, 2, 4, 5, 7];
+let arr = [];
 
-const reducer = (accumulator, curentvalue) => accumulator + curentvalue;
+const evenNum = (num) => num % 2 === 0;
 
-console.log(arr.reduce(reducer));
+console.log(arr.some(evenNum));
