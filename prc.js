@@ -1,5 +1,6 @@
-let arr = [];
+let arr = [2, 4, 3, 5];
+const iterator = arr.values();
 
-const evenNum = (num) => num % 2 === 0;
-
-console.log(arr.some(evenNum));
+for (let num of iterator) {
+    console.log(num);
+}
