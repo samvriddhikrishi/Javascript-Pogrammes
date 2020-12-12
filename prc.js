@@ -1,4 +1,7 @@
-const arr = [2, 3, 4, 5];
+function printA(){
+    console.log(ans);
+    var ans=2;
+};
 
-const arr2 = arr.map(x => x * 2);
-console.log(arr2);
+printA();
+printA();
