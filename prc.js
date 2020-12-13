@@ -1,6 +1,3 @@
-let arr = [2, 4, 3, 5];
-const iterator = arr.values();
+const posts = {};
 
-for (let num of iterator) {
-    console.log(num);
-}
+const data = { id: 123, name: "jaya" };
