@@ -14,4 +14,5 @@ function timeConvert(num){
      return output;
  }
  
- console.log(timeConvert(110))
+ console.log(timeConvert(110));
+ 
