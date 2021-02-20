@@ -1,4 +1,5 @@
 /* Write a function that accepts number and returns a N*N spiral matrix in clock wise.
+
 ex: number is 2
     [[1, 2],
      [4, 3]]
