@@ -15,4 +15,4 @@ function fizBuzz(n) {
     }
 }
 
-fizBuzz(15)
+fizBuzz(15);
