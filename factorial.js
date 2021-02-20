@@ -9,4 +9,4 @@ function factNum(num) {
     return sum;
 }
 
-console.log(factNum(4))
+console.log(factNum(4));
