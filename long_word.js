@@ -16,4 +16,3 @@ function LongestWord(sen) {
 }
 // keep this function call here 
 console.log(LongestWord("123456 324"));
-
