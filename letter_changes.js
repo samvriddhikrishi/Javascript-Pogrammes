@@ -22,4 +22,3 @@ function LetterChanges(str) {
   
   // keep this function call here 
   console.log(LetterChanges('12*jdyak'));
-  
