@@ -15,7 +15,6 @@ function revStr(str) {
         }
     }
 
-    
     // const data = output.split("");
     // console.log(data);
     // if (obj.length !== 0) {
