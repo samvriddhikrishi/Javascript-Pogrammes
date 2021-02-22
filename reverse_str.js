@@ -29,5 +29,3 @@ function revStr(str) {
 }
 
 console.log(revStr("kri@shna"));
-
-
