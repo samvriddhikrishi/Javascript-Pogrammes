@@ -1,3 +1,4 @@
+
 function minBribes(q) {
     let output = 0;
     let sub;
