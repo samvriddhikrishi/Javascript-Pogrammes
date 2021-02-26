@@ -54,7 +54,6 @@ console.log(arrChunk([1, 2, 3, 4, 5, 7, 8, 9], 3));
 /*******************************************************************************************/
 
 // Solution - 3
-
 function arrChunk(arr, size) {
     const chunked = [];
     let index = 0;
