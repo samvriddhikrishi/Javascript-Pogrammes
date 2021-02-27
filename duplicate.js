@@ -32,7 +32,6 @@ console.log(b);
 
 
 // Solution - 3
-
 let arr = [1, 2, 3, 4, 2, 3, 4, 5, 6, 5, 7, 7];
 
 let output = [];
