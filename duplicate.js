@@ -30,7 +30,6 @@ for (var i = 1; i < a.length; i++) {
 
 console.log(b);
 
-
 // Solution - 3
 let arr = [1, 2, 3, 4, 2, 3, 4, 5, 6, 5, 7, 7];
 
