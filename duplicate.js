@@ -6,7 +6,6 @@ console.log([...new Set(arr)]);
 
 
 ///// Solution - 2
-
 a = [1, 3, 2, 3, 4, 1, 4, 5, 3, 2, 5];
 
 b = [];
