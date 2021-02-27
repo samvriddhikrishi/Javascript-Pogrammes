@@ -1,5 +1,4 @@
 ////// Solution - 1
-
 arr = [1, 3, 5, 6, 3, 4, 5];
 
 console.log([...new Set(arr)]);
