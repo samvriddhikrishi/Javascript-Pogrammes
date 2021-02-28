@@ -9,4 +9,4 @@ for (let i = 0; i < n; i++) {
     arr = output;
 }
 
-console.log(arr)
+console.log(arr);
