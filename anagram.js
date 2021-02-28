@@ -33,7 +33,6 @@ console.log(anagram("RAIL! SAFETY!", "fairy tales"));
 /*************************************************************************************/
 
 // Solution - 2
-
 function anagram(str1, str2) {
     const aStr = str1.replace(/[^\w]/g, "").toLowerCase().split("").sort().join("");
     const bStr = str2.replace(/[^\w]/g, "").toLowerCase().split("").sort().join("");
