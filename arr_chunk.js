@@ -11,7 +11,6 @@ chunk([1, 2, 3, 4, 5], 10) --> [[ 1, 2, 3, 4, 5]]
 */
 
 // Solution -1
-
 function arrChunk(arr, length) {
     let subrr = [];
     let output = [];
