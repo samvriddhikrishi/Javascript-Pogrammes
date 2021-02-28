@@ -19,7 +19,6 @@ console.log(capital("a short sentence"));
 /********************************************************************************************** */
 
 // Solution - 2
-
 function capital(str) {
 
     let result = str[0].toUpperCase();
