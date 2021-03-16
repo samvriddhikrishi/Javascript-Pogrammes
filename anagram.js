@@ -37,5 +37,4 @@ function anagram(str1, str2) {
     const bStr = str2.replace(/[^\w]/g, "").toLowerCase().split("").sort().join("");
     return aStr === bStr;
 }
-
 console.log(anagram("RAIL! SAFETY!", "fairy tales"));
