@@ -25,7 +25,6 @@ function charBuildMap(str) {
     }
     return charMap;
 }
-
 console.log(anagram("RAIL! SAFETY!", "fairy tales"));
 
 /*************************************************************************************/
