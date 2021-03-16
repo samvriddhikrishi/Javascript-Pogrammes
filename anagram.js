@@ -2,7 +2,6 @@
 anagram is number of each chracter in both strings should be same
 ex: anagram("rail safety", "fairy tales") --> true
 */
-
 // Solution -1 
 function anagram(strA, strB) {
     const aString = charBuildMap(strA);
