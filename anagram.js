@@ -9,7 +9,6 @@ function anagram(strA, strB) {
     if (Object.keys(aString).length !== Object.keys(bString).length) {
         return false
     } 
-
     for(let char in aString){
         if(aString[char] !== bString[char]){
             return false
