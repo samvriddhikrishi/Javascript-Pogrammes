@@ -2,7 +2,6 @@
 
 let arr = ['abc', 'cba', 'dell', 'leld', 'boo'];
 let obj = {};
-
 for (let i = 0; i < arr.length; i++) {
     let word = arr[i].split("").sort().join("")
     if (obj[word]) {
