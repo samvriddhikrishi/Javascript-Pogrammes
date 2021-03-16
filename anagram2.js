@@ -1,7 +1,6 @@
 // find all the anagrams is number of each chracter in both strings should be same
 
 let arr = ['abc', 'cba', 'dell', 'leld', 'boo'];
-
 let obj = {};
 
 for (let i = 0; i < arr.length; i++) {
