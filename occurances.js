@@ -1,5 +1,4 @@
 // Find the all index of given element in array
-
 var indices = [];
 var array = ['a', 'b', 'a', 'c', 'a', 'd'];
 var element = 'a';
