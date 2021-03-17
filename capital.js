@@ -15,7 +15,6 @@ function capital(str) {
 }
 
 console.log(capital("a short sentence"));
-
 /********************************************************************************************** */
 
 // Solution - 2
