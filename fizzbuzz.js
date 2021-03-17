@@ -16,3 +16,4 @@ function fizBuzz(n) {
 }
 
 fizBuzz(15);
+
