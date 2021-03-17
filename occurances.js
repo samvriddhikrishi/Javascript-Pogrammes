@@ -9,3 +9,4 @@ while (idx != -1) {
 }
 
 console.log(indices);
+
