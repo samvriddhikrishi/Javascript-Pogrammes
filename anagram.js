@@ -4,6 +4,7 @@ ex: anagram("rail safety", "fairy tales") --> true
 */
 // Solution -1 
 
+
 function anagram(strA, strB) {
     const aString = charBuildMap(strA);
     const bString = charBuildMap(strB);
