@@ -10,7 +10,7 @@ for (let i = 0; i < arr.length; i++) {
         obj[word] = [];
         obj[word].push(arr[i])
     }
-}
+} 
 
 const keys = Object.keys(obj);
 for (let j = 0; j < keys.length; j++) {
