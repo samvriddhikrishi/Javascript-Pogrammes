@@ -31,4 +31,5 @@ function capital(str) {
     return result;
 }
 
+
 console.log(capital("a short sentence"));
