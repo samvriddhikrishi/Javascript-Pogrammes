@@ -1,4 +1,4 @@
-Find the maximum profit from given array
+Find the maximum profit from given array. Array elements represents daily price of stock. for example if i buy on third day with 2 rupees and can sell on 5th day, i get maximum profit. but you can't sell before buying day.
 
      const arr1 = [7, 8, 2, 3, 4];
 
